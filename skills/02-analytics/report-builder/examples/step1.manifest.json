@@ -1,0 +1,10 @@
+{
+  "manifest_version": "1",
+  "skill": "data-profiler",
+  "version": "0.1.0",
+  "status": "ok",
+  "inputs": [{"path": "data.csv", "type": "csv", "role": "data"}],
+  "outputs": [{"path": "report.md", "type": "markdown", "role": "report"}],
+  "metrics": {"rows": 100, "issues": 3},
+  "suggested_next": ["pii-redactor", "report-builder"]
+}
