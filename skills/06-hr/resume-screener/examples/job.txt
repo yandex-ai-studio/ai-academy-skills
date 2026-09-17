@@ -1,0 +1,9 @@
+Python Backend Developer
+
+Требования:
+- Python 3.10+, FastAPI, PostgreSQL
+- Docker, CI/CD, REST API
+- Опыт 3+ года backend разработки
+- Английский B1+
+
+Будет плюсом: pandas, asyncio, Yandex Cloud

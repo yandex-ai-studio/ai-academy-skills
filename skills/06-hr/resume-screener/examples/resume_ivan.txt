@@ -1,0 +1,5 @@
+Иван Петров
+Backend Developer, 4 года опыта
+
+Навыки: Python, FastAPI, PostgreSQL, Docker, REST API, CI/CD, asyncio
+Опыт: разработка микросервисов, интеграции с Yandex Cloud

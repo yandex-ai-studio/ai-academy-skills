@@ -1,0 +1,10 @@
+{
+  "manifest_version": "1",
+  "skill": "pii-redactor",
+  "version": "0.1.0",
+  "status": "ok",
+  "inputs": [{"path": "data.csv", "type": "csv", "role": "data"}],
+  "outputs": [{"path": "redacted.csv", "type": "text", "role": "redacted"}],
+  "metrics": {"pii_total": 5},
+  "suggested_next": ["report-builder"]
+}

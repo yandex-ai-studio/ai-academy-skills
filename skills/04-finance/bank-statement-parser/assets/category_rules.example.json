@@ -1,0 +1,12 @@
+[
+  {
+    "category": "Кружки ребёнка",
+    "contains_any": ["шахматная школа", "студия рисования"],
+    "direction": "expense"
+  },
+  {
+    "category": "Услуги бухгалтера",
+    "contains_any": ["бухгалтерское сопровождение", "accounting service"],
+    "direction": "expense"
+  }
+]

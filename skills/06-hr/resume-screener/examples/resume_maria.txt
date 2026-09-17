@@ -1,0 +1,5 @@
+Мария Сидорова
+Frontend Developer
+
+Навыки: React, TypeScript, CSS, Figma
+Опыт: 2 года в веб-разработке
