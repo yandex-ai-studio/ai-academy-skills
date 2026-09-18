@@ -5,3 +5,5 @@
 Примеры запросов и проверяемое поведение — [examples.md](examples.md).
 
 Для AI Studio соберите полный ZIP и загрузите через Skills API; подключите `skill_reference` внутри `shell.environment.skills` в Responses API. Подробности: [CONNECT.md](../../../CONNECT.md). Исходные данные — переданный текст и файлы; корпоративные коннекторы не требуются.
+
+В архиве `SKILL.md` находится в корне, `scripts/` — рядом с ним. Параметр `layout: flat` в `bundle.json` сохраняет эту структуру при сборке.
