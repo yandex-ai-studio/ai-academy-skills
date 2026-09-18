@@ -1,0 +1,13 @@
+{
+  "layout": "flat",
+  "include_top": [
+    "SKILL.md",
+    "requirements.txt"
+  ],
+  "include_dirs": [
+    "scripts",
+    "assets",
+    "references"
+  ],
+  "include_shared": false
+}
